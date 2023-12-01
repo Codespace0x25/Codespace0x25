@@ -1,4 +1,16 @@
 ### Hi there 👋
+~ pronuns (she/they)
+---
+
+
+## im currently working on
+~ a os called zenos
+~ a game engine in c
+
+
+## im currently learning
+~ how to make a os
+
 
 <!--
 **minecraftteet/minecraftteet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
