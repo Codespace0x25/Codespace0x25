@@ -4,12 +4,11 @@
 
 
 ## im currently working on
-~ a os called zenos
-~ a game engine in c
+~ a twitch bot in rust and c
 
 
 ## im currently learning
-~ how to make a os
+~ rust
 
 
 <!--
