@@ -5,7 +5,7 @@
 
 ## im currently working on
 ~ a twitch bot in rust and c
-
+~ a C lib for maing c easier called cmod
 
 ## im currently learning
 ~ rust
